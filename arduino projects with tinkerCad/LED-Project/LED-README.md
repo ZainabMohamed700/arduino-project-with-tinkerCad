@@ -19,6 +19,3 @@
 
 ## Project Code
 Click here, [LED Project Code Link](led.ino)
-
-## Tinkercad Link
-Click here, [LED Tinkercad Project Link](https://www.tinkercad.com/things/dU5LwVeUBcD-copy-of-alternative-quizno2173-15-10419/editel?tenant=circuits)
