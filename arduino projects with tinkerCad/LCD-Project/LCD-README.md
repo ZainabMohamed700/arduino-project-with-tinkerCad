@@ -20,5 +20,3 @@
 ## Project Code
 Click here, [LCD Project Code Link](lcd.ino)
 
-## Tinkercad Link
-Click here, [LCD Tinkercad Project Link](https://www.tinkercad.com/things/ewRSrQoujAy-copy-of-no3-ruhulaminparvez-173-15-10419/editel?tenant=circuits)
