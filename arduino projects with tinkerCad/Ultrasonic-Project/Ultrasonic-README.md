@@ -18,5 +18,3 @@
 ## Project Code
 Click here, [Ultrasonic Project Code Link](ultrasonic.ino)
 
-## Tinkercad Link
-Click here, [Ultrasonic Tinkercad Project Link](https://www.tinkercad.com/things/fpPHan4PPiu-copy-of-no2-ruhulaminparvez-173-15-10419/editel?tenant=circuits)
