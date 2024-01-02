@@ -23,5 +23,3 @@
 ## Project Code
 Click here, [Door Password System Project Code Link](door-password-system.ino)
 
-## Tinkercad Link
-Click here, [Door Password System Tinkercad Project Link](https://www.tinkercad.com/things/8FVWXETrmiI-door-password-systemruhul-amin-parvez-173-15-10419/editel)
