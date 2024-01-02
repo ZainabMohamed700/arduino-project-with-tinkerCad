@@ -19,6 +19,3 @@ After, run the program :
 
 ## Project Code
 Click here, [PIR Sensor Project Code Link](pir-sensor.ino)
-
-## Tinkercad Link
-Click here, [PIR Sensor Tinkercad Project Link](https://www.tinkercad.com/things/6cit1OsNtlK-copy-of-no1-ruhulaminparvez-173-15-10419/editel?tenant=circuits)
